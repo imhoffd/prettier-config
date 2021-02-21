@@ -1,0 +1,20 @@
+{
+  "name": "@imhoff/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwieeb/prettier-config.git"
+  },
+  "keywords": [],
+  "author": "Dan Imhoff <dwieeb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwieeb/prettier-config/issues"
+  },
+  "homepage": "https://github.com/dwieeb/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  }
+}
