@@ -7,15 +7,4 @@ module.exports = {
   singleQuote: true,
   tabWidth: 2,
   trailingComma: 'all',
-  overrides: [
-    {
-      files: ['*.java'],
-      options: {
-        printWidth: 140,
-        tabWidth: 4,
-        useTabs: false,
-        trailingComma: 'none',
-      },
-    },
-  ],
 };
