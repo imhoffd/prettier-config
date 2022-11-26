@@ -16,5 +16,6 @@
   "homepage": "https://github.com/dwieeb/prettier-config#readme",
   "peerDependencies": {
     "prettier": "^2.0.0"
-  }
+  },
+  "prettier": "./index.js"
 }
