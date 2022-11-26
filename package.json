@@ -5,15 +5,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dwieeb/prettier-config.git"
+    "url": "git+https://github.com/imhoffd/prettier-config.git"
   },
   "keywords": [],
   "author": "Dan Imhoff <dwieeb@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dwieeb/prettier-config/issues"
+    "url": "https://github.com/imhoffd/prettier-config/issues"
   },
-  "homepage": "https://github.com/dwieeb/prettier-config#readme",
+  "homepage": "https://github.com/imhoffd/prettier-config#readme",
   "peerDependencies": {
     "prettier": "^2.0.0"
   },
