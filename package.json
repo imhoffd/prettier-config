@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/imhoffd/prettier-config#readme",
   "devDependencies": {
-    "prettier": "^3.0.1"
+    "prettier": "^3.1.0"
   },
   "peerDependencies": {
     "prettier": "^3.0.0"
